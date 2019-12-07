@@ -1,0 +1,5 @@
+/home/rob/Downloads/Applications/clion-2017.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/rob/Downloads/Programs/Backup_Hero/CLionProjects/Cartoonifyimages
+-- Found OpenCV: /usr/local (found suitable version "4.1.2", minimum required is "4.1.2") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rob/Downloads/Programs/Backup_Hero/CLionProjects/Cartoonifyimages/cmake-build-debug
